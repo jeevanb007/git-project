@@ -1,2 +1,2 @@
 # git-project
-actual project
+this is the first line of the project
